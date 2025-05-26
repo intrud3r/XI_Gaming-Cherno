@@ -1,0 +1,30 @@
+{
+    "version": 0,
+    "entries": [
+        {
+            "steamid": "76561198003652661",
+            "spawnCount": 1,
+            "didRespawn": 1
+        },
+        {
+            "steamid": "76561198371187382",
+            "spawnCount": 1,
+            "didRespawn": 1
+        },
+        {
+            "steamid": "76561198352827856",
+            "spawnCount": 1,
+            "didRespawn": 1
+        },
+        {
+            "steamid": "76561199502462473",
+            "spawnCount": 1,
+            "didRespawn": 1
+        },
+        {
+            "steamid": "76561198363667042",
+            "spawnCount": 1,
+            "didRespawn": 1
+        }
+    ]
+}
