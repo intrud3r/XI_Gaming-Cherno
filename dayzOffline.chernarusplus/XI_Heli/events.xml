@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events>
 <event name="VehicleHelispawn1">
 <nominal></nominal>
 <min>3</min>
@@ -43,4 +45,4 @@
 <child lootmax="0" lootmin="0" max="5" min="3" type="Heliec135_SIB_hell_clear"/>
 </children>
 </event>
-
+</events>

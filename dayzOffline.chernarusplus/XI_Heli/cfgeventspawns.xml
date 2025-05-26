@@ -1,6 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events>
 <event name="VehicleHelispawn1">
 <pos x="4428.71" z="10526" a="339.027" />    <!--NWAF-->
 <pos x="1661.69" z="14194.3" a="451.739" />  <!--Tisy-->
 <pos x="1178.68" z="14586.5" a="454.2" />  <!--Tisy Range-->
 <pos x="7746.5" z="14842.8" a="360.466" />  <!--Keminsk-->
 </event>
+</events>
