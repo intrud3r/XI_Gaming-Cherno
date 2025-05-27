@@ -17,7 +17,7 @@
     "EnableWindAerodynamics": 0,
     "EnableTailRotorDamage": 1,
     "Towing": 1,
-    "EnableHelicopterExplosions": 1,
+    "EnableHelicopterExplosions": 0,
     "DisableVehicleDamage": 0,
     "VehicleCrewDamageMultiplier": 1.0,
     "VehicleSpeedDamageMultiplier": 1.0,

@@ -1,6 +1,6 @@
 {
   "m_Version": 5,
-  "EnableNotification": 1,
+  "EnableNotification": 0,
   "ShowPlayerJoinServer": 0,
   "JoinMessageType": 1,
   "ShowPlayerLeftServer": 0,
@@ -13,7 +13,7 @@
   "ShowPlayerAirdropClosingOn": 1,
   "ShowPlayerAirdropDropped": 1,
   "ShowTerritoryNotifications": 0,
-  "EnableKillFeed": 1,
+  "EnableKillFeed": 0,
   "KillFeedMessageType": 1,
   "KillFeedFall": 1,
   "KillFeedCarHitDriver": 1,

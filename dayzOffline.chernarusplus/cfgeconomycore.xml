@@ -35,6 +35,11 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<default name="save_events_startup" value="true"/>
 		<default name="save_types_startup" value="true"/>
 	</defaults>
+	<ce folder="expansion_ce">
+	    <file name="expansion_events.xml" type="events" />
+		<file name="expansion_types.xml" type="types" />
+		<file name="expansion_spawnabletypes.xml" type="spawnabletypes" />
+	</ce>
 	<ce folder="ce/heli">
 	   <file name="types.xml" type="types" />
 	   <file name="cfgspawnabletypes.xml" type="spawnabletypes" />
@@ -42,9 +47,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	<ce folder="ce/mag">
 		<file name="types.xml" type="types" />
 	</ce>
-	<ce folder="ce/food">
-		<file name="types.xml" type="types" />
-	</ce>
+	
 	<ce folder="ce/nomadnamalsk">
 	   <file name="types.xml" type="types" />
 	</ce>
