@@ -40,6 +40,11 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="expansion_types.xml" type="types" />
 		<file name="expansion_spawnabletypes.xml" type="spawnabletypes" />
 	</ce>
+	
+         <ce folder="ce/para">
+		<file name="types.xml" type="types" />		
+		<file name="spawnabletypes.xml" type="spawnabletypes" />
+	</ce>
 	<ce folder="ce/heli">
 	   <file name="types.xml" type="types" />
 	   <file name="cfgspawnabletypes.xml" type="spawnabletypes" />

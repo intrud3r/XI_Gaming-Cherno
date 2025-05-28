@@ -108,7 +108,7 @@
             "m_Persist": 1
         }
     ],
-    "EnableHUDCompass": 1,
+    "EnableHUDCompass": 0,
     "NeedCompassItemForHUDCompass": 0,
     "NeedGPSItemForHUDCompass": 0,
     "CompassColor": -1,
