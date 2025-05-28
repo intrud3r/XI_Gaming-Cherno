@@ -17,9 +17,7 @@
             <child lootmax="0" lootmin="0" max="5" min="3" type="Helipolice_SIB4"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="Helipolice_SIB4_clear"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="Helipolice_swat_SIB5"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Helipolice_swat_SIB5_clear"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Homemade_SIB"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="Homemade_SIB_clear"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Helipolice_swat_SIB5_clear"/>            
             <child lootmax="0" lootmin="0" max="5" min="3" type="HeliSIB_UH1D"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="HeliSIB_UH1D_clear"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="HeliSIB_UH1D_airforce"/>

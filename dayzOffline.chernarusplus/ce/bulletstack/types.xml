@@ -275,6 +275,7 @@
 		<value user="Tier7" />
 		<category name="weapons" />
 		<tag name="military" />
+		</type>
 <type name="CDS_Suppressor_Pistol_Camo296">
 		<nominal>1</nominal>
 		<lifetime>1800</lifetime>
@@ -306,6 +307,7 @@
 		<value user="Tier7" />
 		<category name="weapons" />
 		<tag name="military" />
+		</type>
 <type name="CDS_Suppressor_Pistol_Camo366">
 		<nominal>1</nominal>
 		<lifetime>1800</lifetime>
@@ -321,5 +323,5 @@
 		<value user="Tier7" />
 		<category name="weapons" />
 		<tag name="military" />
-
+</type>
 </types>
