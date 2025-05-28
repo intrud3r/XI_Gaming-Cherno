@@ -82,6 +82,8 @@ class CustomMission: MissionServer
 				itemEnt = player.GetInventory().CreateInInventory( "Plum" );
 			player.SetQuickBarEntityShortcut(itemEnt, 3);
 			SetRandomHealth( itemEnt );
+			player.GetStatEnergy().Set(5000);
+		    player.GetStatWater().Set(5000);
 		}
 		
 		itemClothing = player.FindAttachmentBySlotName( "Legs" );

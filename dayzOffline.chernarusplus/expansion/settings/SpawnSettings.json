@@ -362,12 +362,12 @@
             "Chance": 1.0
         }
     ],
-    "SpawnHealthValue": 100.0,
-    "SpawnEnergyValue": 500.0,
-    "SpawnWaterValue": 500.0,
-    "EnableRespawnCooldowns": 1,
-    "RespawnCooldown": 120,
-    "TerritoryRespawnCooldown": 240,
+    "SpawnHealthValue": 5000.0,
+    "SpawnEnergyValue": 5000.0,
+    "SpawnWaterValue": 5000.0,
+    "EnableRespawnCooldowns": 0,
+    "RespawnCooldown": 40,
+    "TerritoryRespawnCooldown": 40,
     "PunishMultispawn": 1,
     "PunishCooldown": 120,
     "PunishTimeframe": 300,
